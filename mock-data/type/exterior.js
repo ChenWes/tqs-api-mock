@@ -1,6 +1,6 @@
 const mockobject_exterior = {
     // 属性 list 的值是一个数组，其中含有 1 到 10 个元素
-    'dataList|100': [{
+    'dataList|500': [{
         // 属性 id 是一个自增数，起始值为 1，每次增 1
         "QAComment|1": ["左右袖长短有差异，请烫部注意",
             "对条格跟不上制单要求，退车间返工",
@@ -29,7 +29,7 @@ const mockobject_exterior = {
             "制单用布信息注明折痕可照用"
         ],
         "CheckTime|1-15": 1,
-        "CheckType|1": "Style",
+        "CheckType|1": "Exterior",
         "CheckQA|1": [{ "Operator": "0280762", "OperatorName": "陈绪华" }, { "Operator": "0280763", "OperatorName": "陈绪华1" }, { "Operator": "0280764", "OperatorName": "陈绪华2" }],
         "ZDCode|1": ["GS17K48221Q1",
             "GS17K49343Q1",
